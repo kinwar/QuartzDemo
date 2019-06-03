@@ -1,0 +1,6 @@
+D:\ZhuJH\88 Demo\ConsoleQuartz\ConsoleQuartz.Common\obj\x86\Debug\ConsoleQuartz.Common.csproj.CoreCompileInputs.cache
+D:\ZhuJH\88 Demo\ConsoleQuartz\ConsoleQuartz.Common\obj\x86\Debug\ConsoleQuartz.Common.csproj.CopyComplete
+D:\ZhuJH\88 Demo\ConsoleQuartz\Reference\ConsoleQuartz.Common.dll
+D:\ZhuJH\88 Demo\ConsoleQuartz\Reference\ConsoleQuartz.Common.pdb
+D:\ZhuJH\88 Demo\ConsoleQuartz\ConsoleQuartz.Common\obj\x86\Debug\ConsoleQuartz.Common.dll
+D:\ZhuJH\88 Demo\ConsoleQuartz\ConsoleQuartz.Common\obj\x86\Debug\ConsoleQuartz.Common.pdb

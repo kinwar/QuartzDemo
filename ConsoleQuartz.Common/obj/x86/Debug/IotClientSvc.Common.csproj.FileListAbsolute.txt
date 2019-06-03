@@ -1,0 +1,39 @@
+D:\Users\YAOGL\Documents\Visual Studio 2017\Projects\NetcoreApi\branches\IotProj\IotClientSvc.Common\bin\Debug\Creative.ServerPlugin.Common.dll
+D:\Users\YAOGL\Documents\Visual Studio 2017\Projects\NetcoreApi\branches\IotProj\IotClientSvc.Common\bin\Debug\Creative.ServerPlugin.Common.pdb
+D:\Users\YAOGL\Documents\Visual Studio 2017\Projects\NetcoreApi\branches\IotProj\IotClientSvc.Common\bin\Debug\Newtonsoft.Json.dll
+D:\Users\YAOGL\Documents\Visual Studio 2017\Projects\NetcoreApi\branches\IotProj\IotClientSvc.Common\bin\Debug\NLog.dll
+D:\Users\YAOGL\Documents\Visual Studio 2017\Projects\NetcoreApi\branches\IotProj\IotClientSvc.Common\bin\Debug\System.dll
+D:\Users\YAOGL\Documents\Visual Studio 2017\Projects\NetcoreApi\branches\IotProj\IotClientSvc.Common\bin\Debug\System.ServiceModel.dll
+D:\Users\YAOGL\Documents\Visual Studio 2017\Projects\NetcoreApi\branches\IotProj\IotClientSvc.Common\bin\Debug\Newtonsoft.Json.xml
+D:\Users\YAOGL\Documents\Visual Studio 2017\Projects\NetcoreApi\branches\IotProj\IotClientSvc.Common\obj\x86\Debug\IotClientSvc.Common.csprojResolveAssemblyReference.cache
+D:\Users\YAOGL\Documents\Visual Studio 2017\Projects\NetcoreApi\branches\IotProj\IotClientSvc.Common\obj\x86\Debug\IotClientSvc.Common.csproj.CoreCompileInputs.cache
+D:\Users\YAOGL\Documents\Visual Studio 2017\Projects\NetcoreApi\branches\IotProj\IotClientSvc.Common\obj\x86\Debug\Creative.ServerPlugin.Common.dll
+D:\Users\YAOGL\Documents\Visual Studio 2017\Projects\NetcoreApi\branches\IotProj\IotClientSvc.Common\obj\x86\Debug\Creative.ServerPlugin.Common.pdb
+D:\Users\YAOGL\Documents\Visual Studio 2017\Projects\NetcoreApi\branches\IotProj\IotClientSvc.Common\bin\Debug\System.Data.SQLite.dll
+D:\ZhuJH\17 IoT项目\Source\IotProj\IotClientSvc.Common\bin\Debug\Newtonsoft.Json.dll
+D:\ZhuJH\17 IoT项目\Source\IotProj\IotClientSvc.Common\bin\Debug\System.Data.SQLite.dll
+D:\ZhuJH\17 IoT项目\Source\IotProj\IotClientSvc.Common\bin\Debug\System.dll
+D:\ZhuJH\17 IoT项目\Source\IotProj\IotClientSvc.Common\bin\Debug\System.ServiceModel.dll
+D:\ZhuJH\17 IoT项目\Source\IotProj\IotClientSvc.Common\obj\x86\Debug\IotClientSvc.Common.csprojResolveAssemblyReference.cache
+D:\ZhuJH\17 IoT项目\Source\IotProj\IotClientSvc.Common\obj\x86\Debug\IotClientSvc.Common.csproj.CoreCompileInputs.cache
+D:\ZhuJH\17 IoT项目\Source\IotProj\IotClientSvc.Common\bin\Debug\IotClientSvc.Common.dll
+D:\ZhuJH\17 IoT项目\Source\IotProj\IotClientSvc.Common\bin\Debug\IotClientSvc.Common.pdb
+D:\ZhuJH\17 IoT项目\Source\IotProj\IotClientSvc.Common\obj\x86\Debug\IotClientSvc.Common.dll
+D:\ZhuJH\17 IoT项目\Source\IotProj\IotClientSvc.Common\obj\x86\Debug\IotClientSvc.Common.pdb
+D:\Cloud\GeneralStandard\Code\IoT\06 IotClientSvc\IotClientSvc.Common\obj\x86\Debug\IotClientSvc.Common.csproj.CoreCompileInputs.cache
+D:\Cloud\GeneralStandard\Code\IoT\06 IotClientSvc\IotClientSvc.Common\obj\x86\Debug\IotClientSvc.Common.dll
+D:\Cloud\GeneralStandard\Code\IoT\06 IotClientSvc\IotClientSvc.Common\obj\x86\Debug\IotClientSvc.Common.pdb
+D:\Cloud\GeneralStandard\Code\IoT\06 IotClientSvc\IotClientSvc.Common\bin\Debug\IotClientSvc.Common.dll
+D:\Cloud\GeneralStandard\Code\IoT\06 IotClientSvc\IotClientSvc.Common\bin\Debug\IotClientSvc.Common.pdb
+D:\Cloud\GeneralStandard\Code\IoT\06 IotClientSvc\IotClientSvc.Common\bin\Debug\Newtonsoft.Json.dll
+D:\Cloud\GeneralStandard\Code\IoT\06 IotClientSvc\IotClientSvc.Common\bin\Debug\NLog.dll
+D:\Cloud\GeneralStandard\Code\IoT\06 IotClientSvc\IotClientSvc.Common\bin\Debug\SqlSugar.dll
+D:\Cloud\GeneralStandard\Code\IoT\06 IotClientSvc\IotClientSvc.Common\bin\Debug\System.Data.SQLite.dll
+D:\Cloud\GeneralStandard\Code\IoT\06 IotClientSvc\IotClientSvc.Common\bin\Debug\System.dll
+D:\Cloud\GeneralStandard\Code\IoT\06 IotClientSvc\IotClientSvc.Common\bin\Debug\System.ServiceModel.dll
+D:\Cloud\GeneralStandard\Code\IoT\06 IotClientSvc\Reference\IotClientSvc.Common.dll
+D:\Cloud\GeneralStandard\Code\IoT\06 IotClientSvc\Reference\IotClientSvc.Common.pdb
+D:\Cloud\GeneralStandard\Code\IoT\06 IotClientSvc\ReleaseAssembly\IotClientSvc.Common.dll
+D:\Cloud\GeneralStandard\Code\IoT\06 IotClientSvc\ReleaseAssembly\IotClientSvc.Common.pdb
+D:\Cloud\GeneralStandard\Code\IoT\06 IotClientSvc\IotClientSvc.Common\obj\x86\Debug\IotClientSvc.Common.csprojAssemblyReference.cache
+D:\Cloud\GeneralStandard\Code\IoT\06 IotClientSvc\IotClientSvc.Common\obj\x86\Debug\IotClientSvc.Common.csproj.CopyComplete

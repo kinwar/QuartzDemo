@@ -1,0 +1,12 @@
+D:\ZhuJH\88 Demo\ConsoleQuartz\TestConsoleDLL\bin\Debug\netstandard2.0\TestConsoleDLL.deps.json
+D:\ZhuJH\88 Demo\ConsoleQuartz\TestConsoleDLL\bin\Debug\netstandard2.0\TestConsoleDLL.dll
+D:\ZhuJH\88 Demo\ConsoleQuartz\TestConsoleDLL\bin\Debug\netstandard2.0\TestConsoleDLL.pdb
+D:\ZhuJH\88 Demo\ConsoleQuartz\TestConsoleDLL\obj\Debug\netstandard2.0\TestConsoleDLL.csprojAssemblyReference.cache
+D:\ZhuJH\88 Demo\ConsoleQuartz\TestConsoleDLL\obj\Debug\netstandard2.0\TestConsoleDLL.csproj.CoreCompileInputs.cache
+D:\ZhuJH\88 Demo\ConsoleQuartz\TestConsoleDLL\obj\Debug\netstandard2.0\TestConsoleDLL.AssemblyInfoInputs.cache
+D:\ZhuJH\88 Demo\ConsoleQuartz\TestConsoleDLL\obj\Debug\netstandard2.0\TestConsoleDLL.AssemblyInfo.cs
+D:\ZhuJH\88 Demo\ConsoleQuartz\TestConsoleDLL\obj\Debug\netstandard2.0\TestConsoleDLL.dll
+D:\ZhuJH\88 Demo\ConsoleQuartz\TestConsoleDLL\obj\Debug\netstandard2.0\TestConsoleDLL.pdb
+D:\ZhuJH\88 Demo\ConsoleQuartz\ConsoleQuartz\bin\Debug\netstandard2.0\TestConsoleDLL.deps.json
+D:\ZhuJH\88 Demo\ConsoleQuartz\ConsoleQuartz\bin\Debug\netstandard2.0\TestConsoleDLL.dll
+D:\ZhuJH\88 Demo\ConsoleQuartz\ConsoleQuartz\bin\Debug\netstandard2.0\TestConsoleDLL.pdb
