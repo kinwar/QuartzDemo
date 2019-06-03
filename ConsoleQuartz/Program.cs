@@ -77,10 +77,6 @@ namespace ConsoleQuartz
             //TestSample();
             //var t1 = StartJobAsync();  
 
-            //Assembly assembly = Assembly.LoadFrom(AppDomain.CurrentDomain.BaseDirectory + "Midea.MES.Kanban.Plugin.RptOutputDay.dll");
-            //Assembly assembly = Assembly.LoadFile(AppDomain.CurrentDomain.BaseDirectory + @"Midea.MES.Kanban.Plugin.RptOutputDay.dll");
-            //var types = assembly.GetType("Midea.MES.Kanban.Plugin.RptOutputDay.Workers.RptOutputDayWorker");
-
             //Assembly assembly = Assembly.LoadFrom(AppDomain.CurrentDomain.BaseDirectory + "TestConsoleDLL.dll");
             //var types = assembly.GetType("TestConsoleDLL.QuartExec");
 
